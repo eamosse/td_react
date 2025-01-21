@@ -11,7 +11,7 @@ npm create vite@latest
 npm run dev
 ```
 4. Essayer de modifier le contenu du fichier App.jsx puis enregistrer le fichier, vérifier que votre changement s'affiche instantannément dans le navigateur (pas besoin de recharger la page)
-5. Remplacer le contenu du fichier index.ccs par celui inclut dans ce repository
+5. Remplacer le contenu du fichier index.css par celui inclut dans ce repository
 6. Créer un commit avec le message "TD00 : Initialisation du projet"
 7. Push
 
